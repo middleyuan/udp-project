@@ -2,7 +2,8 @@
     This is the client code that sends messages to the server.
         References: 
             * https://www.geeksforgeeks.org/udp-server-client-implementation-c/
-            * https://markus-x-buchholz.medium.com/docker-container-networking-c-client-server-app-e9750f003f8 
+            * https://markus-x-buchholz.medium.com/docker-container-networking-c-client-server-app-e9750f003f8
+            * https://docker-curriculum.com/#docker-network 
 */
 
 #include <iostream>
